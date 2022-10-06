@@ -1,3 +1,5 @@
 Pour cloner un repo "Git clone "url"
 Pour les commandes push "Git add, Git commit, git push"
 git pull origin master
+git branch pour creer une branche
+git checkout pour basculer sur celle-ci
